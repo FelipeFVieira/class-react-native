@@ -1,7 +1,7 @@
 import { Text, View } from 'react-native';
 
 // 1º method using style-inline
-export default function styleInline() {
+export default function App() {
   return (
     <View style={{ 
             display:'flex', 
